@@ -1,0 +1,5 @@
+name: qtplotter
+dependencies:
+  - matplotlib
+  - scipy
+  - ipympl
