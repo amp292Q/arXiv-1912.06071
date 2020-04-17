@@ -1,4 +1,6 @@
 name: qtplotter
+channels:
+  - conda-forge
 dependencies:
   - matplotlib
   - scipy
