@@ -1,6 +1,6 @@
 # Parity-preserving and magnetic field resilient superconductivity in indium antimonide nanowires with tin shells
 
-Launch the notebook in Binder (~20 s, sometimes minutes) or Colab (faster but not very compatible): 
+Launch the notebook in Binder (~20 s, sometimes minutes) or Colab: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/frolovgroup/arXiv-1912.06071/master?filepath=Sn-InSb.ipynb)
 
